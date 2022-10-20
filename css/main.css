@@ -8,14 +8,12 @@ body{
 }
 
 .home-description{
-	font-style: italic;
-	font-weight: 600;
+	font-weight: 400;
 	font-family: "Crimson";
 	font-size: 19px;
     padding-top: 15px;
     padding-bottom: 25px;
     line-height: 29px;
-
 }
 
 .social a i{
